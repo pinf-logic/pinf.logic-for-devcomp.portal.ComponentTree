@@ -10,7 +10,7 @@ The *DeveloperCompanion ComponentTree Portal* organizes registred components int
 The model is focused on providing the following:
 
   * A single data model to capture all PINF.Logic aspects as they apply to web software development
-  * A root layout component animated by the data model to create slots for registration of implementing components
+  * A layout node component animated by the data model to create slots for registration of implementing components
   * A container to load and manage implementing components and provide a PINF.Logic context
   * A workflow that requires the assignment of every implementing component to a model-managed container
 
